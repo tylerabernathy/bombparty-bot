@@ -1,6 +1,6 @@
 # BombParty Bot
 
-This application is a jklm.fun BombParty bot that uses an algorithm to find the best possible word for each scenario.
+This application is a BombParty bot for https://jklm.fun/ that uses an algorithm to find the best possible word for each scenario.
 
 ## Requirements
 
